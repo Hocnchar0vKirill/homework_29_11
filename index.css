@@ -1,0 +1,112 @@
+header {
+    position: absolute;
+    top: 0px;
+    width: 100%;
+    height: 5%;
+    left: 0px;
+    background-color: #020509;;
+}
+.logo {
+position: absolute;
+width: 3.44%;
+height: 1.01%;
+left: 15.625%;
+top: 15%;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 900;
+font-size: 16px;
+line-height: 164.1%;
+/* or 26px */
+
+letter-spacing: 8px;
+
+color: #D4DDE1;
+
+}
+.main-page {
+position: absolute;
+width: 4.38%;
+height: 0.62%;
+left: 49.165%;
+top: 15%;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 26px;
+letter-spacing: 0.1em;
+
+color: #FF0038;
+
+}
+.about-author {
+position: absolute;
+width: 7.25%;
+height: 0.62%;
+left: 57%;
+top: 15%;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+letter-spacing: 0.1em;
+
+color: #D4DDE1;
+
+}
+.projects {
+position: absolute;
+width: 4.11%;
+height: 0.62%;
+left: 66.675%;
+top: 15%;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+letter-spacing: 0.1em;
+
+color: #D4DDE1;
+
+}
+.process {
+position: absolute;
+width: 4.48%;
+height: 0.62%;
+left: 76.35%;
+top: 15%;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+letter-spacing: 0.1em;
+
+color: #D4DDE1;
+
+}
+.contacts {
+position: absolute;
+width: 5.16%;
+height: 0.62%;
+left: 86.025%;
+top: 15%;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+letter-spacing: 0.1em;
+
+color: #D4DDE1;
+
+}
