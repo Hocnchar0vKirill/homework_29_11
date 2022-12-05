@@ -110,3 +110,199 @@ letter-spacing: 0.1em;
 color: #D4DDE1;
 
 }
+.layout {
+    position: absolute;
+    width: 28.18%;
+    height: 1.75%;
+    left: 20%;
+    top: 15%;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 48px;
+line-height: 79px;
+
+color: #020509;
+
+}
+.Design {
+position: absolute;
+width: 28.13%;
+height: 3.66%;
+left: 20%;
+top: 30%;
+
+/* p */
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+
+color: #727272;
+
+}
+.contact-me {
+position: absolute;
+width: 11.72%;
+height: 2.53%;
+left: 20%;
+top: 50%;
+
+background: #FFCE38;
+border-radius: 4px;
+}
+.information {
+position: absolute;
+width: 100.00%;
+height: 40%;
+top: 70%;
+left: 0%;
+background: rgba(0, 207, 250, 0.05);
+}
+.about-me {
+    position: absolute;
+    width: 15%;
+    height: 1.51%;
+    left: 41.5%;
+    top: 10%;
+    text-align: center;
+    
+    /* h2 */
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 38px;
+    text-align: center;
+    
+    color: #020509;
+    
+}
+.about-me-txt {
+position: absolute;
+width: 28.13%;
+height: 3.37%;
+left: 35%;
+top: 40%;
+
+/* p */
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+text-align: center;
+
+color: #727272;
+
+}
+.numbers{
+position: absolute;
+width: 100%;
+height: 15%;
+left: 0%;
+top: 110%;
+display: flex;
+flex-wrap: nowrap;
+justify-content: space-around;
+align-items: center;
+background: #020509;
+}
+.how-do-i-work{
+position: absolute;
+width: 100.00%;
+height: 49.07%;
+left: 0%;
+top: 110%;
+
+background: rgba(0, 207, 250, 0.05);
+}
+.how-i-work-hdr {
+    position: absolute;
+    width: 20.99%;
+    height: 1.51%;
+    left: 37%;
+    top: 40%;
+    text-align: center;
+    
+    /* h2 */
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 38px;
+    text-align: center;
+    
+    color: #020509;
+    
+}
+.how-i-work-txt {
+position: absolute;
+width: 28.13%;
+height: 3.37%;
+left: 34%;
+top: 60%;
+text-align: center;
+/* p */
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+text-align: center;
+
+color: #727272;
+
+
+}
+.code-img {
+position: absolute;
+top: 110%;
+width: 62.50%;
+left: 20%;
+}
+.contact-me-btn-2 {
+position: absolute;
+width: 11.72%;
+height: 5%;
+left: 45%;
+top: 240%;
+
+background: #FFCE38;
+border-radius: 4px;
+}
+footer{
+  width: 100.00%;
+  height: 5%;
+  top: 240%;
+  left: 0%;
+  background-color: black;
+  position: absolute;
+}
+.ftr {
+position: absolute;
+width: 20%;
+height: 1.22%;
+left: 45%;
+top: 10%;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 25px;
+/* or 139% */
+
+display: flex;
+align-items: center;
+
+color: #ffffff;
+
+}
